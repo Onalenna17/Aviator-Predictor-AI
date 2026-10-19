@@ -1,0 +1,6 @@
+{
+  "name": "Aviator Predictor AI",
+  "description": "Aviator Predictor AI Analyst - Statistical trend estimation, empirical reach rate analysis, and historical crash round simulation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
